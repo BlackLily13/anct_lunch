@@ -178,6 +178,10 @@ main{
   padding-bottom: 5px;
 }
 
+select{
+  margin-top: 4px;
+}
+
 option{
   font-size: 9px;
 }
@@ -186,6 +190,7 @@ button{
 background-color: #84ed4c;
 border: 5px double #c6ff8e;
 font-size: 12px;
+margin-top: 4px;
 }
 
 
